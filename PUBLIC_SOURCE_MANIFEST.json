@@ -1,0 +1,29 @@
+{
+  "repository": "timeweb_synergy_ml_validation_lab",
+  "public_source_files": 19,
+  "excluded_offline_only": [
+    "results/article-08-uci-har-row-vs-subject.png",
+    "results/article-08-wdbc-overfit-train-test-auc.png"
+  ],
+  "sha256": {
+    ".gitignore": "d9d3d414f6f84c0ef3d8b09d59f49f6c2c173fab18219c9fa262db2383820cf5",
+    "README.md": "5479b4809990a90c0f7d91842e4bc71ae47356ed288f2d17b124642d23367a4a",
+    "prototypes/__init__.py": "7ea3e33621d03c4e3e2271d2e93e55721d45d99472f589fa698ec105fcddfdb6",
+    "prototypes/__main__.py": "c63aff76bcd5a382a42c8d13eb3c2f5fb2c564b451bdfd20819631c3725055d6",
+    "prototypes/real_experiments/article08_group_leakage.py": "cea3abddc7040b90a745cb6cfc5b167d455d9b3c5718c3eb907a5f933b7c70b7",
+    "prototypes/real_experiments/article08_overfitting.py": "dd443736e8a440a3d94f8c160b804a78287a00a16670ac2ef2a2b268016ea0fc",
+    "prototypes/runner.py": "3e1a59a8d2260be864749b4aa583961569fdcbee7b161f1025ae3725a841306f",
+    "prototypes/scenarios/__init__.py": "60d32f11ef7875e4b24eedf3a631281803e0295a8206e39819cf2cae243632f8",
+    "prototypes/scenarios/article08.py": "9a44a443ee6bb76a434acd65376092ba20f0b0caf9a7e9f9deda3e03db234a55",
+    "prototypes/tests/test_article08_dataset_extract.py": "8bc3fb6f6b4de49668224f27341687391b7803a8cc0ef83177a3dfeedaaf4fa0",
+    "prototypes/tests/test_article08_group_leakage.py": "a216d625e6af17a4db4fe01d12a511026affe15df33d5f3b1b465bd2f40ba25b",
+    "prototypes/tests/test_article08_real.py": "4ab29bf3631fc369bd9a3e3a614eb8f4737ff11fd0d1e88b7d9eeae2566ec040",
+    "prototypes/tests/test_articles_06_08.py": "939532947566339866a3429c541e5ab69a6cdcbe9a36c00e07bffd3ed0f22ce4",
+    "requirements.txt": "12b84930f4edd3f3d1fde62f07d61110a07a88bdfb5acc5338f7fda8a61b8247",
+    "results/article-08-uci-har-leakage-20261117T145417.269206Z.json": "6ecf77fb7979132cf1c649db9d99c4cf37d6b76e597cf58f92b9f04a2226eaed",
+    "results/article-08-wdbc-overfit-20261117T141916.608721Z.csv": "8cb41bd36eac46950b739fbcd90f55e5c296adb4e5cacc1708bc8e7b9f982508",
+    "results/article-08-wdbc-overfit-20261117T141916.608721Z.json": "a4159bf4213baf32141ec04676d050d12b8e0eb98d19eaf96c0da815017ca94d",
+    "results/article-08-wdbc-overfit-20261117T142452.365125Z.csv": "ef370ed44315bf343f13ba34452f740a36d5ad377371e168da8aa642a2385229",
+    "results/article-08-wdbc-overfit-20261117T142452.365125Z.json": "dd6fc3729d8e0f7986cdd253dfb6c196d27badb7fd157c884e28ce12fc89ddd0"
+  }
+}
